@@ -6,6 +6,6 @@ I'll have for sure some public projects in the future but I'm currently busy wit
 
 - 🔭 I’m currently working as a **CIO** and **Lead Developer**
 - 💬 Ask me about **PHP, Symfony, JS**
-- 👨‍💻 My personal website is: **[https://www.nyuw.dev](https://www.nyuw.dev)**
+- 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 How to reach me: **fabien@nyuw.dev**
 - ⚡ Fun fact: I **LOVE** red pandas
