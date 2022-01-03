@@ -8,4 +8,4 @@ I'll have for sure some public projects in the future but I'm currently busy wit
 - 💬 Ask me about **PHP, Symfony, JS**
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 How to reach me: **fabien@nyuw.dev**
-- ⚡ Fun fact: I **LOVE** red pandas
+- ⚡ Fun fact: I **LOVE** red pandas 🐼
