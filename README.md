@@ -1,15 +1,17 @@
-<h1 align="center">Fabien aka Nyuw</h1>
-<h3 align="center">CIO in the web industry 📷</h3>
+### Hi everyone ! 👋
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/Nyuwb/Nyuwb/main/nyuwKING.png" width="200px" title="Nyuw King Picture" alt="Nyuw King Picture"/>
-</p>
+I'm <a href="https://nyuw.dev" target="_blank">Nyuw</a>, a lead web developer from France.
 
-I don't have any public repo right now, we don't build open source code in my company.<br/>
+<img align="right" title="Nyuw King Picture" alt="Nyuw King Picture" src="https://raw.githubusercontent.com/Nyuwb/Nyuwb/main/nyuwKING.png" width="200px" height="200px" />
+
+I don't have any active public repo right now, we don't build open source code in my company.<br/>
 I'll have for sure some public projects in the future but I'm currently busy with my little daughter 👶
 
-- 🔭 I’m currently working as a **CIO** and **Lead Developer**
-- 💬 Ask me about **PHP, Symfony, JS**
+- 🔭 I’m currently working as a **IT Manager** and **Lead Developer** in the e-commerce domain
+- 🌱 My stack is mainly on PHP but I'm comfortable with a lot of techs
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
-- 📫 How to reach me: **fabien@nyuw.dev**
-- ⚡ Fun fact: I **LOVE** red pandas 🐼
+- 📫 How to reach me: `fabien@nyuw.dev` or `Nyuw#0001` on Discord
+- 🐼 Fun fact: I **LOVE** red pandas 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
