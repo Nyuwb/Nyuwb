@@ -16,7 +16,10 @@ I'll have for sure some public projects in the future but I'm currently busy wit
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 March 2022 - To: 17 March 2022
+
+PHP   45 mins         █████████████████████████   99.60 %
+Git   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
