@@ -16,10 +16,11 @@ I'll have for sure some public projects in the future but I'm currently busy wit
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
-PHP   45 mins         █████████████████████████   99.60 %
-Git   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+PHP          3 hrs 33 mins   █████████████████████████   99.49 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
