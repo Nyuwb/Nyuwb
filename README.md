@@ -16,14 +16,14 @@ I'll have for sure some public projects in the future but I'm currently busy wit
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2022 - To: 18 April 2022
+From: 12 April 2022 - To: 19 April 2022
 
-PHP             4 hrs 35 mins   ████████████░░░░░░░░░░░░░   47.85 %
-PowerShell      3 hrs 54 mins   ██████████▒░░░░░░░░░░░░░░   40.70 %
-JavaScript      47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Apache Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-HTML            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-CSS             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+PowerShell      3 hrs 42 mins   ████████████▓░░░░░░░░░░░░   50.82 %
+PHP             2 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   35.11 %
+JavaScript      47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Apache Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+CSS             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Other           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
