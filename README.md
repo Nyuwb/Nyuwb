@@ -16,7 +16,7 @@ I'll have for sure some public projects in the future but I'm currently busy wit
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2022 - To: 23 April 2022
+From: 17 April 2022 - To: 24 April 2022
 
 PowerShell   8 hrs 26 mins   ██████████████▓░░░░░░░░░░   58.92 %
 PHP          5 hrs           ████████▓░░░░░░░░░░░░░░░░   34.97 %
