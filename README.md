@@ -6,8 +6,8 @@ I'm <a href="https://nyuw.dev" target="_blank">Nyuw</a>, a lead web developer fr
 
 I'll have for sure more public projects in the future but I'm currently busy 👧🏽👶🏽
 
-- 🔭 I’m currently working as a **Senior Software Engineer**
-- 🌱 My stack is mainly on PHP but I'm comfortable with a lot of techs
+- 🔭 I'm currently working as a **Senior Software Engineer** and **PHP Tech Lead**
+- 🌱 My stack is mainly **PHP** but I'm comfortable with a lot of techs
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 How to reach me: `fabien@nyuw.dev` or `Nyuw#0001` on Discord
 - 🐼 Fun fact: I **LOVE** red pandas 
