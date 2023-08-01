@@ -1,6 +1,6 @@
 ### Hi everyone ! 👋
 
-I'm <a href="https://nyuw.dev" target="_blank">Nyuw</a>, a lead web developer from France.
+I'm <a href="https://nyuw.dev" target="_blank">Nyuw</a>, a lead developer from France.
 
 <img align="right" title="Nyuw King Picture" alt="Nyuw King Picture" src="https://raw.githubusercontent.com/Nyuwb/Nyuwb/main/nyuwKING.png" width="200px" height="200px" />
 
