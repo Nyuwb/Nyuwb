@@ -6,7 +6,7 @@ I'm <a href="https://nyuw.dev" target="_blank">Nyuw</a>, a lead developer from F
 
 I'll have for sure more public projects in the future but I'm currently busy 👧🏽👶🏽
 
-- 🔭 I'm currently working as a **Senior Software Engineer** and **PHP Tech Lead**
+- 🔭 I'm currently working as a **Lead Developer**
 - 🌱 My stack is mainly **PHP** but I'm comfortable with a lot of techs
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 How to reach me: `fabien@nyuw.dev` or `nyuw` on Discord
