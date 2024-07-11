@@ -4,7 +4,9 @@ I'm a lead developer from France.
 
 <img align="right" title="Nyuw King Picture" alt="Nyuw King Picture" src="https://raw.githubusercontent.com/Nyuwb/Nyuwb/main/nyuwKING.png" width="200px" height="200px" />
 
-I'll have for sure more public projects in the future but I'm currently busy 👧🏽👶🏽
+I'm sharing some things with colleagues on Github, feel free to use them.  
+As every developer I'd love to be more active here, but I'm not using Github at work and I don't have enough free time to work on side projects for the moment.  
+I hope it will become something possible in the future !
 
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 You can reach me at `fabien@nyuw.dev` or `nyuw` on Discord
