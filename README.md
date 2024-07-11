@@ -10,7 +10,7 @@ I hope it will become something possible in the future !
 
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 You can reach me at `fabien@nyuw.dev` or `nyuw` on Discord
-- 🧑‍💻 I'm doing some tech stuffs for a nurcery association
+- 🧑‍💻 I'm doing some stuffs for a non-profit nurcery association
 
 ### # My (not fully completed) stack
 
