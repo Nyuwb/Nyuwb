@@ -1,4 +1,4 @@
-### # Hi, I'm Nyuw ! 👋
+### # Hi, I'm Fabien ! 👋
 
 I'm a lead developer from France.
 
@@ -8,9 +8,10 @@ I'm sharing some things with colleagues on Github, feel free to use them.
 As every developer I'd love to be more active here, but I'm not using Github at work and I don't have enough free time to work on side projects for the moment.  
 I hope it will become something possible in the future !
 
+- 🥨 My nickname is **Nyuw**
 - 👨‍💻 My personal website is: **[https://nyuw.dev](https://nyuw.dev)**
 - 📫 You can reach me at `fabien@nyuw.dev` or `nyuw` on Discord
-- 🧑‍💻 I'm doing some stuffs for a non-profit nursery association
+- 👶 I'm doing some stuffs for a non-profit nursery association
 
 ### # My (not fully completed) stack
 
